@@ -1,7 +1,3 @@
-<div align="center">
-  <img width="100%" height = "250px" src="https://cdn.discordapp.com/attachments/904580909129424956/1137627116498862150/image.png" alt="cover" />
-</div>
-
 
 <h1> WELCOME! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
