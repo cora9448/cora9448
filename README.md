@@ -4,3 +4,5 @@
 <strong>Skills >> Node.js, C, Python3, Rust, Mysql, Sqlite3, etc..</strong>
 <br>
 <strong>Social >> uko.(discord ID) </strong>
+<br>
+<strong>I love >> Web2.0, security, CTF</strong>
